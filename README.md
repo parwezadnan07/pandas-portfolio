@@ -18,7 +18,7 @@ Welcome to my central repository for exploratory data analysis (EDA), data clean
 | Project Domain | Core Methodology & Focus | Primary Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | **[Feature Extraction Project](./Feature%20Extraction%20Project/README.md)** | Data cleaning, missing value imputation, text tokenization, and custom attribute generation. | Python, Pandas | Completed ✅ |
-| **[Capstone Project](./Capstone%20Project/README.md)** | Comprehensive EDA, multi-variable statistical groupings, aggregations, and insight reporting. | Python, Pandas, Matplotlib, Seaborn | Completed ✅ |
+| **[Capstone Project](./Capstone%20Project/README.md)** | Comprehensive EDA, multi-variable statistical groupings, aggregations, and insight reporting. | Python, Pandas | Completed ✅ |
 
 ---
 
