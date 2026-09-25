@@ -1,8 +1,6 @@
-<div align="center">
-
 # 🌐 Global Countries Dataset: Exploratory Data Analysis & Dashboard
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/PYTHON-3.10%2B-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/PANDAS-DATA_ANALYSIS-darkgreen.svg" alt="Pandas">
   <img src="https://img.shields.io/badge/NUMPY-NUMERICAL_COMPUTING-orange.svg" alt="NumPy">
@@ -10,8 +8,6 @@
 </p>
 
 *An enterprise-grade analytical repository exploring global geographical, demographic, economic, and political indicators using Python and Pandas.*
-
-</div>
 
 ---
 
@@ -77,14 +73,6 @@
 ## 🚀 Getting Started & Replication
 
 To run the exploratory analysis script locally:
-
-Install required dependencies:
-pip install pandas numpy
-
-Execute the analysis script:
-python analysis.py
-
-
 
 1. **Clone the repository:**
    ```bash
