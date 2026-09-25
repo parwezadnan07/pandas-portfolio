@@ -17,12 +17,12 @@
 
 ## 📊 Professional Project Dashboard
 
-| Module ID | Analytical Focus | Core Methodology & Scope | Difficulty | Status & Link |
+| Module ID | Analytical Focus | Core Methodology & Scope | Difficulty | Status |
 | :---: | :--- | :--- | :---: | :---: |
-| **01** | **Dataset Overview** | Structural profiling, dimensionality checks, and feature categorization (194 entities, 64 columns). | Intermediate | **[View Analysis](#1-dataset-structural-profiling)** |
-| **02** | **Demographics & Geography** | Population extrema tracking, capital identification, and microstate analysis. | Intermediate | **[View Analysis](#2-demographic--geographic-extremes)** |
-| **03** | **Governance & Democracy** | Democracy index scoring, political leadership auditing, and naming nomenclature patterns. | Advanced | **[View Analysis](#3-governance--political-structures)** |
-| **04** | **Regional Clustering** | Macro-region classification (22 regions) and Eastern Europe cluster isolation (10 nations). | Advanced | **[View Analysis](#4-regional-clustering--eastern-europe)** |
+| **01** | **Dataset Overview** | Structural profiling, dimensionality checks, and feature categorization (194 entities, 64 columns). | Intermediate | Completed ✅ |
+| **02** | **Demographics & Geography** | Population extrema tracking, capital identification, and microstate analysis. | Intermediate | Completed ✅ |
+| **03** | **Governance & Democracy** | Democracy index scoring, political leadership auditing, and naming nomenclature patterns. | Advanced | Completed ✅ |
+| **04** | **Regional Clustering** | Macro-region classification (22 regions) and Eastern Europe cluster isolation (10 nations). | Advanced | Completed ✅ |
 
 ---
 
@@ -77,6 +77,14 @@
 ## 🚀 Getting Started & Replication
 
 To run the exploratory analysis script locally:
+
+Install required dependencies:
+pip install pandas numpy
+
+Execute the analysis script:
+python analysis.py
+
+
 
 1. **Clone the repository:**
    ```bash
